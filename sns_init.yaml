@@ -29,8 +29,8 @@ NnsProposal:
     - Min participation - 1 ICP
     - Max participation - 10,000 ICP
     - Min participants - 100
-    - Min to be raised - 10,000 ICP
-    - Max to be raised - 200,000 ICP
+    - Min to be raised - 50,000 ICP
+    - Max to be raised - 300,000 ICP
 
     ## Learn more:
     Whitepaper: https://icexplorer.gitbook.io/icexplorer
@@ -117,11 +117,16 @@ Distribution:
       memo: 6
       dissolve_delay: "0 months"
       vesting_period: "21 months"
-    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "15_000_000 tokens"
-      memo: 7
+    - principal: "2syez-xemia-zgz6u-cnotv-3yyub-33fpe-xwfvy-4q4kf-2asy3-kemr3-lqe"
+      stake: "14_999_500 tokens"
+      memo: 8
       dissolve_delay: "0 months"
-      vesting_period: "24 months"    
+      vesting_period: "0 months"
+    - principal: "2syez-xemia-zgz6u-cnotv-3yyub-33fpe-xwfvy-4q4kf-2asy3-kemr3-lqe"
+      stake: "500 tokens"
+      memo: 8
+      dissolve_delay: "0 months"
+      vesting_period: "0 months"
 
 
   InitialBalances:
