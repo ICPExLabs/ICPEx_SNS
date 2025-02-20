@@ -39,13 +39,15 @@ NnsProposal:
 
 
 fallback_controller_principals:
-  - 【】veab3-45yfd-pm37n-tiqkb-ntu3p-hgitu-qgduf-xcgap-s43l7-dla3c-qqe
+  - 2syez-xemia-zgz6u-cnotv-3yyub-33fpe-xwfvy-4q4kf-2asy3-kemr3-lqe
+  - uzvzh-mcbo7-gr7gr-6p5yv-unszk-v32z5-t4ebn-nducf-zsdz4-znutj-zqe
 
 dapp_canisters:
-  - 【】sf467-nyaaa-aaaae-qajpq-cai
-  - 【】xzhe2-gqaaa-aaaae-qajqa-cai
-  - 【】x6gco-liaaa-aaaae-qajqq-cai
-  - 【】wpm4r-taaaa-aaaae-qajva-cai
+  - 24gqi-uyaaa-aaaam-ab5gq-cai
+  - 2vf3u-cqaaa-aaaam-ab5ha-cai
+  - 2ackz-dyaaa-aaaam-ab5eq-cai
+  - 2jbbf-vqaaa-aaaam-ab5fa-cai
+  - gdz52-oaaaa-aaaam-ab7ea-cai
 
 Token:
   name: ICPExchange
