@@ -125,7 +125,7 @@ Distribution:
 
 
   InitialBalances:
-    governance: 730_000_000 tokens
+    treasury: 730_000_000 tokens
     swap: 150_000_000 tokens
 
   total: 1_000_000_000 tokens
