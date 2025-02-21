@@ -92,7 +92,7 @@ ICPEx is actively developing the AI Agent functionality, which will provide user
 
 ### **3.1 Overview of the Technical Architecture**
 
-![image-20250214161140398](https://p.ipic.vip/mhcd9p.png)
+![image-20250214161140398](https://github.com/ICPExLabs/ICPEx_SNS/blob/main/ICPEX_Architecture.png)
 
 ICPEx adopts a modular architecture design to ensure an efficient and scalable decentralized trading experience. The entire architecture focuses on three core needs: liquidity management, smart trading optimization, and on-chain interoperability, leveraging the computational power of the IC to achieve high throughput and low-cost on-chain transaction execution.
 
