@@ -174,9 +174,9 @@ ICPEx, a decentralized exchange (DEX) based on the IC, is committed to building 
 | Ledger Transaction Fee          | 0.001 ICX     |
 | Proposal Reject Fee             | 1000 ICX      |
 | Minimum Direct Fund             | 50,000 ICP    |
-| Maximal Direct Fund             | 300,000 ICP   |
+| Maximum Direct Fund             | 300,000 ICP   |
 | Minimum Participation Fund      | 1 ICP         |
-| Maximal Participation Fund      | 100,000 ICP   |
+| Maximum Participation Fund      | 100,000 ICP   |
 | Minimum Participants            | 100           |
 | Maximum Dissolve Delay          | 24 months     |
 | Dissolve Delay Bonus            | 100%          |
