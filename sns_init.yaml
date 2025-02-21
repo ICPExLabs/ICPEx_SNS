@@ -1,4 +1,4 @@
-name: ICPexchange
+name: ICPEx
 
 description: >
     AI-Driven Decentralized Liquidity Network.
@@ -8,15 +8,15 @@ logo: logo.png
 url: https://icpex.org/
 
 NnsProposal:
-  title: "NNS Proposal to create an SNS named 'ICPExchange'"
+  title: "NNS Proposal to create an SNS named 'ICPEx'"
   url: tbc
 
   summary: |
     # Summary
-    Proposal to create an SNS DAO for ICPExchange.
+    Proposal to create an SNS DAO for ICPEx.
 
     # Overview  
-    This proposal is for the creation of the ICPExchange SNS DAO, which will be used to manage and control all ICPExchange DApps and on-chain data through the DAO!
+    This proposal is for the creation of the ICPEx SNS DAO, which will be used to manage and control all ICPEx DApps and on-chain data through the DAO!
   
     ## Token distribution
     - Total Supply: 1,000,000,000 - 1 Billion
@@ -50,7 +50,7 @@ dapp_canisters:
   - gdz52-oaaaa-aaaam-ab7ea-cai
 
 Token:
-  name: ICPExchange
+  name: ICPEx
   symbol: ICX
   transaction_fee: 100_000 e8s
   logo: logo.png
