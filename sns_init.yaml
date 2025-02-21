@@ -61,7 +61,7 @@ Proposals:
   maximum_wait_for_quiet_deadline_extension: 1 day
 
 Neurons:
-  minimum_creation_stake: 100 tokens
+  minimum_creation_stake: 10 tokens
 
 Voting:
   minimum_dissolve_delay: 1 month
